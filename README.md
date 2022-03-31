@@ -1,3 +1,2 @@
 # 31marchrepo
-This is a sample repo
-This is a new sample repo
+Are we clear on, how to add, commit and push the changes from our local machine?
